@@ -1128,3 +1128,8 @@ section .container {
     transform: translateX(-50%);
   }
 }
+
+.img-fluid {
+  height: 150px !important;
+  width: 100%;
+}
