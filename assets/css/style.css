@@ -18,7 +18,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: url("/assets/img/background/bg1.jpg");
+  background: url("../img/background/bg1.jpg");
   background-size: cover;
   left: 0;
   right: 0;
