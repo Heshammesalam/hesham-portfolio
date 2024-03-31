@@ -1130,6 +1130,7 @@ section .container {
 }
 
 .img-fluid {
-  height: 200px !important;
+  height: 300px !important;
   width: 100%;
+  /* border-radius: 50%; */
 }
